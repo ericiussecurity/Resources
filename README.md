@@ -2,7 +2,7 @@
 A collection of resources from training to block lists
 
 ## Cybersecurity Top 5
-- [A notecard's worth of high ROI cybersecurity measures]("Cybersecurity Top 5.md")
+- [A notecard's worth of high ROI cybersecurity measures](./CybersecurityTop5.md)
 
 ## Frameworks
 - https://gcatoolkit.org/mission-based-orgs/ - GCA has a simplified/foundational cybersecurity framework for mission-based orgs with links to tools and processes 
