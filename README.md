@@ -1,12 +1,16 @@
 # Resources
 A collection of resources from training to block lists
 
+## Cybersecurity Top 5
+- [A notecard's worth of high ROI cybersecurity measures](./CybersecurityTop5.md)
+
 ## Frameworks
 - https://gcatoolkit.org/mission-based-orgs/ - GCA has a simplified/foundational cybersecurity framework for mission-based orgs with links to tools and processes 
 - https://www.nist.gov/cyberframework - NIST Cyber Security Framework
 - https://www.cisecurity.org/controls/v8 - Center for Internet Security Critical Security Controls v8
 
 ## Training
+- https://learnsecurity.amazon.com/en/index.html - Amazon's free training; Self-hostable and contains Spanish options
 - https://www.curricula.com/ - Gamified freemium security training
 - https://securityawareness.usalearning.gov/ - Painful and boring, yet free and thorough. Lots of options to learn the basics of what the US Gov thinks about how to do personal security
 
