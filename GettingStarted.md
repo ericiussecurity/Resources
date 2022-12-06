@@ -33,7 +33,7 @@ NOTE: Ericius Security receives no compensation for any of the purchase links be
 - https://krebsonsecurity.com - The blog of a respected journalist who covers security, cybercrime, fraud, and related topics.
 - https://arstechnica.com - More security news with longer format reporting on news and critical vulnerabilities.
 - https://therecord.media - The news/blog side of the Recorded Future threat intelligence company. Articles are very insightful into current topics.
-- https://thehackernews.com/ - Another cybersecurity focused news aggregator. - Another cybersecurity focused news aggregator.
+- https://thehackernews.com/ - Another cybersecurity focused news aggregator.
 - https://attack.mitre.org/ - Check out the enterprise matrix. It’s a collection of TTPs (Tactics, Tools, Procedures) that cyber criminals use to break into networks.
 - https://www.pluralsight.com/ It’s not free, but has courses on practically every topic within IT and Cybersecurity.
 - https://google.com - Sometimes you just have to Google it. Knowing how to find the answers will help in all stages of your career.
